@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716384520 source:c:\users\office\desktop\new folder\insurance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+	<sys/stat.h>
+	<errno.h>
+	<time.h>
+
